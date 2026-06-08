@@ -73,7 +73,6 @@ Machine-Learning-Journey/
 ├── Deep_Learning/
 ├── Mathematics/
 ├── Datasets/
-├── Projects/
 ├── Notes/
 └── README.md
 ```
@@ -89,8 +88,8 @@ I believe that understanding *why* an algorithm works is just as important as kn
 - [x] Probability Basics
 - [x] Categorical Naive Bayes
 - [x] Gaussian Naive Bayes
-- [ ] Linear Regression
-- [ ] Logistic Regression
+- [x] Linear Regression
+- [x] Logistic Regression
 - [ ] Decision Trees
 - [ ] Random Forest
 - [ ] Deep Learning Fundamentals
